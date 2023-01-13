@@ -9,7 +9,7 @@ function Header() {
       <div className="relative full h-72 bg-black">
         <img className="absolute h-full w-full object-cover opacity-40" src={bgImage} alt="" />
         <h1 className="absolute text-4xl font-medium top-20 left-16 text-slate-200">A melhor loja de Jordan</h1>
-        <p className="absolute text-lg font-medium top-40 left-16 w-5/12 text-slate-200">O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan.</p>
+        <p className="absolute text-sm md:text-base font-medium top-40 left-16 w-80 text-slate-200">O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan.</p>
       </div>
     </header>
   );
