@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "font",
-    "component"
+    "component",
+    "assets"
   ]
 }
