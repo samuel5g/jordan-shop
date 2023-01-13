@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "font",
     "component",
-    "assets"
+    "assets",
+    "card"
   ]
 }
